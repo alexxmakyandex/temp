@@ -1,0 +1,6 @@
+msg = "hello world"
+print(msg)
+print('What is you name')
+name= input()
+b='!'
+print ('hi,'+ name +b)
